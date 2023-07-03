@@ -1,2 +1,2 @@
-# File-Sharing
-File Sharing Application MERN Stack
+# File-Sharing-Application
+File Sharing Application Using MERN Stack
